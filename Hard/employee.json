@@ -1,0 +1,64 @@
+{
+    "employee": [
+{
+    "employeeID": "01",
+    "name": "John Doe",
+    "salary": "50000",
+    "department": "I.T"
+},
+{
+    "employeeID": "02",
+    "name": "Joe Doe",
+    "salary": "50000",
+    "department": "I.T"
+},
+{
+    "employeeID": "03",
+    "name": "Larry Doe",
+    "salary": "50000",
+    "department": "I.T"
+},
+{
+    "employeeID": "04",
+    "name": "Troy Doe",
+    "salary": "50000",
+    "department": "I.T"
+},
+{
+    "employeeID": "05",
+    "name": "John Green",
+    "salary": "50000",
+    "department": "I.T"
+},
+{
+    "employeeID": "06",
+    "name": "Dan Doe",
+    "salary": "50000",
+    "department": "I.T"
+},
+{
+    "employeeID": "07",
+    "name": "John Garcia",
+    "salary": "50000",
+    "department": "I.T"
+},
+{
+    "employeeID": "08",
+    "name": "John Flores",
+    "salary": "50000",
+    "department": "I.T"
+},
+{
+    "employeeID": "09",
+    "name": "John Darnes",
+    "salary": "50000",
+    "department": "I.T"
+},
+{
+    "employeeID": "10",
+    "name": "John Deer",
+    "salary": "50000",
+    "department": "I.T"
+}
+    ]
+}
